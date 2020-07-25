@@ -1,5 +1,5 @@
 ### Hi there 👋
-I`m Felipe Pérez a C# programmer, and now learning FrontEnd Framewords and Libraries. REACTJS, ANGULAR, VUEJS..
+I`m Felipe Pérez a C# & Java programmer, and now learning FrontEnd Framewords and Libraries. REACTJS, ANGULAR, VUEJS..
 
 **FelipePepe/FelipePepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
